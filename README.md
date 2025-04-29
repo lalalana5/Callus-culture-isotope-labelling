@@ -8,6 +8,6 @@ This repository contains the MZmine batch files and a Python script used to anal
 Provided files include:
 1. MZmine batch file for detection of all the features from the LC-MS analysis - where each isotope peak should be recognized as an individual feature.
 2. MZmine batch file for subsequent SIRIUS analysis, necessary for classifying the detected metabolites.
-3. Python script used to generate a final table of all the features classified as "Terpenoid alkaloids" by SIRIUS that show the incorporation of isotopically labelled ethanolamine and/or ethylamine.
+3. The final table of all the features classified as "Terpenoid alkaloids" by SIRIUS that show the incorporation of isotopically labelled ethanolamine and/or ethylamine and the python script used to generate it.
 
 ![SI-workflow-computational-metabolmoics](https://github.com/user-attachments/assets/deb2d05e-4543-410b-9a7e-7f1f441063df)
